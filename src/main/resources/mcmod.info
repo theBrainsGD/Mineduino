@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mineduino",
+  "name": "Mineduino",
+  "description": "This mod builds a connection between your loved Minecraft and the microcontroller Ardiuno which allows you to create circuits with your Arduino and have affect to ingame Minecraft world.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["JayPi4c", "theUltimateEngine"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
