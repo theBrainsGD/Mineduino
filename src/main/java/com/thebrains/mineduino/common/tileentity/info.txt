@@ -1,0 +1,2 @@
+Tileentity classes are placed in this folder.
+After creating the first tileentity class, this file may be deleted.

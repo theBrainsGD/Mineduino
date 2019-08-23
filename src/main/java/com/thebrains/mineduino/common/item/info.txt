@@ -1,0 +1,2 @@
+Item classes are placed in this folder.
+After creating the first item class, this file may be deleted.

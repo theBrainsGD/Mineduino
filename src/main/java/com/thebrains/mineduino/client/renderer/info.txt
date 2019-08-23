@@ -1,0 +1,2 @@
+Renderer classes are placed in this folder.
+After creating the first renderer class, this file may be deleted.
